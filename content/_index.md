@@ -14,9 +14,9 @@ this is my space to share fascinating things that i'm learning. i'm learning abo
 # digital garden
 this website allows you to visualise how my notes are connected with each other, and encourages you to read in a non-linear manner. the 'interactive graph' at the bottom of the page will show you what thoughts live in the neighbourhood of this one.
 
-[here](notes/first_post.md) is my first note!
+[here](/digital-garden/notes/first_post.md) is my first note!
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [[notes/setup.md|setup related notes]]
+If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [[digital-garden/notes/setup.md|setup related notes]]
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
