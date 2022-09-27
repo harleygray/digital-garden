@@ -3,9 +3,12 @@ title: "blueprint"
 tags:
 - blueprint
 enableToc: false
+description: a vision of my ideal life, and how to move towards it 
+thumbnail: "/images/heaven and earth.png"
+images: ["/images/heaven and earth.png"]
 ---
 
-> [!quote]
+> [!quote] why
 >
 > You are best positioned to help people one step behind you.
 > 

@@ -11,6 +11,10 @@ summaryLength = 20
 paginate = 10
 enableGitInfo = true
 
+[Params]
+    twitter_cards = true
+    images = ["images/TwitterCard.png]
+
 [markup]
     [markup.tableOfContents]
         endLevel = 3
