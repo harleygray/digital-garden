@@ -16,6 +16,11 @@ this website allows you to visualise how my notes are connected with each other,
 
 [here](/digital-garden/notes/first_post.md) is my first note!
 
+[[first_post]] test 1
+[[first_post.md]] test 2
+[test 3](notes/first_post.md)
+[test 4](https://harleygray.github.io/digital-garden/notes/first_post/)
+
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [[digital-garden/notes/setup.md|setup related notes]]
 
 ### Troubleshooting
