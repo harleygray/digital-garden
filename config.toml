@@ -13,7 +13,7 @@ enableGitInfo = true
 
 [Params]
     twitter_cards = true
-    images = ["images/TwitterCard.png]
+    images = ["images/TwitterCard.png"]
 
 [markup]
     [markup.tableOfContents]
