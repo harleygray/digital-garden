@@ -1,35 +1,23 @@
 ---
-title: 🪴 Quartz 3.
+title: 📡 hi, welcome to my digital garden 📡 
 enableToc: false
 ---
 
-# Test
+# hi
 This is my first edit to my website! 
 
 
+# welcome
+this is my space to share fascinating things that i'm learning. i'm learning about website design as i go! my hope is that your time here is as enjoyable as mine was creating it :)
+
+
+# digital garden
+this website allows you to visualise how my notes are connected with each other, and encourages you to read in a non-linear manner. the 'interactive graph' at the bottom of the page will show you what thoughts live in the neighbourhood of this one.
 
 
 
-
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
-
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/notes/setup).
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
