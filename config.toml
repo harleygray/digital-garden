@@ -1,5 +1,4 @@
-baseURL = "baseURL = "https://harleygray.github.io/digital-garden/"
-"
+baseURL = "https://harleygray.github.io/digital-garden/"
 languageCode = "en-au"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
