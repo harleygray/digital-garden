@@ -7,6 +7,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
+preserveTaxonomyNames: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
