@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # hi
-This is my first edit to my website! 
+thanks for stopping by!
 
 
 # welcome
@@ -16,7 +16,7 @@ this website allows you to visualise how my notes are connected with each other,
 
 
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/digital-garden/notes/setup).
+If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [[notes/setup.md|setup related notes]]
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
