@@ -20,3 +20,7 @@ this blog is one step in the direction of [[notes/unstucking_myself|"UnStucking"
 i write a lot. like, almost every day. writing my thoughts down is illuminating, but i've built up a mindset causing me to isolate these thoughts. though some thoughts are obviously best kept to myself, i'm out of balance. this website is me making strides back to the direction of balance.
 
 # blueprint
+
+https://twitter.com/isaach/status/1574842386596843520?s=20&t=Zo23LeTZPw5EgX3tUqXpiA
+
+importantly, i don't want this to be a 'one and done' endeavour
