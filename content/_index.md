@@ -1,12 +1,8 @@
 ---
 title: 📡 hi, welcome 📡 
 enableToc: false
-twitter:
-  card: = "summary"
-  site: = "@harleyraygray"
-  title: = "Special Title for the Card"
-  description: = "Test description"
-  image: = ["/images/heaven and earth.png"]
+description: summary
+images: "/images/heaven and earth.png"
 ---
 
 # hi
