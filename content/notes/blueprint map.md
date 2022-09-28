@@ -1,5 +1,5 @@
 ---
-title: "blueprint"
+title: "blueprint map"
 tags:
 - blueprint
 enableToc: false

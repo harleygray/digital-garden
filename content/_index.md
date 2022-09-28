@@ -1,6 +1,12 @@
 ---
 title: 📡 hi, welcome 📡 
 enableToc: false
+twitter:
+  card: = "summary"
+  site: = "@harleyraygray"
+  title: = "Special Title for the Card"
+  description: = "Test description"
+  image: = ["/images/heaven and earth.png"]
 ---
 
 # hi
@@ -22,7 +28,7 @@ this website allows you to visualise how my notes are connected with each other,
 
 [[notes/map of maps]]
 
-[[notes/blueprint.md|start here]]
+[[notes/blueprint map|start here]]
 
 in and out, 20 minute adventure
 ![[notes/images/in and out, quick adventure.jpg]]

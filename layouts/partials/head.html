@@ -2,6 +2,8 @@
 {{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
 {{ $data := index $.Site.Data $config }}
 <head>
+  <!-- Twitter card -->
+  {{ partial "twitter-card" . }}
   <!-- Meta tags -->
   <meta charset="UTF-8" />
   <meta

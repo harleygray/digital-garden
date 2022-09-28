@@ -1,5 +1,7 @@
 ---
 title: "map of maps"
+tags:
+- map
 ---
 
 maps are invaluable assets for adventurers. think of this page as a 'central hub', from which you can find entry points into areas of interest. 
@@ -16,7 +18,7 @@ if however you'd prefer to simply see all notes tagged in a certain way, the tag
 the final option is the search bar in the top-right of every page. click this or use `Ctrl + K` to *quickly* find a phrase or word anywhere within my writing
 
 # blueprint
-a blueprint is a model or prototype. this idea is helpful for me as i build a life full of meaning. from where i'm standing, there are ideas like shining lights beckoning me towards them. to intentionally move in the direction of purpose, i've built a work-in-progress plan of action--a [[notes/blueprint]]--that can guide me through the tumultuous road ahead
+a blueprint is a model or prototype. this idea is helpful for me as i build a life full of meaning. from where i'm standing, there are ideas like shining lights beckoning me towards them. to intentionally move in the direction of purpose, i've built a work-in-progress plan of action--a [[notes/blueprint map]]--that can guide me through the tumultuous road ahead
 
 find all notes with the blueprint tag [here](/tags/Blueprint)
 
@@ -33,6 +35,6 @@ in the timeless lyrics of Phil Collins: "in learning you will teach, and in teac
 
 data science and machine learning often go hand in hand, but not always. as such they have distinct maps and tags:
 - machine learning tags are [here](/tags/ML), and the map [[notes/machine learning map|here|]] 
-- for data science, [here](/tags/datascience) is the tagged notes, and the map [[data science map|here]] 
+- for data science, [here](/tags/datascience) is the tagged notes, and the map [[notes/data science map|here]] 
 
 
