@@ -1,6 +1,7 @@
 ---
 title: 📡 hi, welcome 📡 
 enableToc: false
+{{ template "_internal/twitter_cards.html" . }}
 twitter:
 - card: "summary"
 - description: "summary"
