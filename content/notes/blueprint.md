@@ -24,3 +24,5 @@ i write a lot. like, almost every day. writing my thoughts down is illuminating,
 https://twitter.com/isaach/status/1574842386596843520?s=20&t=Zo23LeTZPw5EgX3tUqXpiA
 
 importantly, i don't want this to be a 'one and done' endeavour
+
+{{< tweet user="isaach" id="1574842386596843520" >}}
