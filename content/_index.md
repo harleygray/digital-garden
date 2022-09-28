@@ -2,10 +2,10 @@
 title: 📡 hi, welcome 📡 
 enableToc: false
 twitter:
-	- card: "summary"
-	- description: "summary"
-	- image: "/images/heaven and earth.png"
-	- site: "@harleyraygray"
+- card: "summary"
+- description: "summary"
+- image: "/images/heaven and earth.png"
+- site: "@harleyraygray"
 ---
 
 # hi
