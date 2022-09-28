@@ -17,6 +17,11 @@ i hope that your visit is as enjoyable for you as it was for me to build this sp
 this website allows you to visualise how my notes are connected with each other, and encourages you to read in a non-linear manner. the 'interactive graph' at the bottom of the page will show you what thoughts live in the neighbourhood of this one.
 
 
+
+
+
+[[notes/map of maps]]
+
 [[notes/blueprint.md|start here]]
 
 in and out, 20 minute adventure
