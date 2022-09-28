@@ -1,8 +1,11 @@
 ---
 title: 📡 hi, welcome 📡 
 enableToc: false
-description: summary
-images: "/images/heaven and earth.png"
+twitter:
+	- card: "summary"
+	- description: "summary"
+	- image: "/images/heaven and earth.png"
+	- site: "@harleyraygray"
 ---
 
 # hi
