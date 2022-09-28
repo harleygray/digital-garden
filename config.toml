@@ -13,8 +13,8 @@ enableGitInfo = true
 
 [Params]
     twitter_cards = true
-    description = "test about site"
-    images = ["images/TwitterCard.png"]
+    description = "harley's corner of the internet. home of data science, essays, and tomfoolery"
+    images = ["https://harleygray.github.io/digital-garden/notes/images/TwitterCard.png"]
 
 [markup]
     [markup.tableOfContents]
