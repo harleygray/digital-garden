@@ -3,6 +3,7 @@
 {{ $data := index $.Site.Data $config }}
 <head>
   <!-- Meta tags -->
+  {{ template "_internal/twitter_cards.html" . }}
   <meta charset="UTF-8" />
   <meta
     name="description"
