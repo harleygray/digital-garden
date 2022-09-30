@@ -4,6 +4,9 @@ tags:
 - blueprint
 enableToc: false
 description: "a vision of my ideal life, and how i'm moving towards it"
+twitter:
+- card: "summary"
+- image: "images/heaven_and_earth.png"
 thumbnail: "images/heaven_and_earth.png"
 images: ["images/heaven_and_earth.png"]
 ---
