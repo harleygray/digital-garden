@@ -6,9 +6,9 @@ enableToc: false
 description: "a vision of my ideal life, and how i'm moving towards it"
 twitter:
 - card: "summary"
-- image: "images/heaven_and_earth.png"
-thumbnail: "images/heaven_and_earth.png"
-images: ["images/heaven_and_earth.png"]
+- image: "https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"
+thumbnail: "https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"
+images: ["https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"]
 ---
 # what is this for?
 crafting a life full of meaning. this is my ambitious north star, and though i can't see the full picture of this, i *can* see the direction. by focusing on the tools, technology and people that resonate with me, i hope to aim at my higher ideal with ever increasing clarity. 
