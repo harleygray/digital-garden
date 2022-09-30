@@ -20,13 +20,7 @@ i hope you enjoy your visit :)
 # digital garden
 this website allows you to visualise how my notes are connected with each other, and encourages you to read in a non-linear manner. the 'interactive graph' at the bottom of the page will show you what thoughts live in the neighbourhood of this one.
 
+the best place to start is [[notes/blueprint map|here]]
 
-
-
-
-[[notes/map of maps]]
-
-[[notes/blueprint map|start here]]
-
-in and out, 20 minute adventure
+lfg!!
 ![[notes/images/in and out, quick adventure.jpg]]

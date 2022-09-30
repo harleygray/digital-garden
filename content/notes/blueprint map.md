@@ -4,7 +4,7 @@ tags:
 - blueprint
 enableToc: false
 description: a vision of my ideal life, and how to move towards it 
-thumbnail: "/images/heaven and earth.png"
+thumbnail: ["/images/heaven_and_earth.png"]
 images: ["/images/heaven_and_earth.png"]
 ---
 # what is this for?
