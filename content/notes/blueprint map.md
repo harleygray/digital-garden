@@ -6,7 +6,7 @@ enableToc: false
 description: "a vision of my ideal life, and how i'm moving towards it"
 twitter:
 - card: "summary"
-- image: "https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"
+- image: "https://harleygray.github.io/digital-garden/notes/images/meaningful_life.png"
 thumbnail: "https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"
 images: ["https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"]
 ---
