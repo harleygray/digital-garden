@@ -7,7 +7,7 @@ description: "a vision of my ideal life, and how i'm moving towards it"
 twitter:
 - card: "summary"
 - image: "https://harleygray.github.io/digital-garden/notes/images/meaningful_life.png"
-thumbnail: "https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"
+thumbnail: "https://harleygray.github.io/digital-garden/notes/images/meaningful_life.png"
 images: ["https://harleygray.github.io/digital-garden/notes/images/meaningful_life.png"]
 ---
 # what is this for?
