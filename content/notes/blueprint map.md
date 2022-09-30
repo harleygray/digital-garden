@@ -8,7 +8,7 @@ twitter:
 - card: "summary"
 - image: "https://harleygray.github.io/digital-garden/notes/images/meaningful_life.png"
 thumbnail: "https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"
-images: ["https://harleygray.github.io/digital-garden/notes/images/heaven_and_earth.png"]
+images: ["https://harleygray.github.io/digital-garden/notes/images/meaningful_life.png"]
 ---
 # what is this for?
 crafting a life full of meaning. this is my ambitious north star, and though i can't see the full picture of this, i *can* see the direction. by focusing on the tools, technology and people that resonate with me, i hope to aim at my higher ideal with ever increasing clarity. 
