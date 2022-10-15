@@ -2,6 +2,7 @@
 title: "🖐🏽catch these hands, please🖐🏽"
 tags:
 - ML
+enableToc: true
 description: training a neural network to recognise hand gestures
 ---
 # surprised by simplicity
@@ -18,7 +19,7 @@ task: train a model that can recognise hand gestures in photos. i want it to rec
 
 to get this project going quickly, we can start with a 'pre-trained' model that has been developed by experts and trained on large databases. rather than building a model from scratch, we can stand on the shoulders of giants and modify a pre-trained model for this purpose.  
 
-the crux of this project boils down to this step: modifying (or *fine tuning*) a pre-trained model. the starting model is called resnet18, which was trained on more than a million images. it's very efficient at image classification and so is perfect to be fine-tuned. because resnet18 is already able to recognise objects, the fune-tuning step requires us to provide specific data on the thing we want to recognise. in this case, we'll need to provide images of hand gestures and the corresponding 'label', i.e. what hand gesture is being done in a photo. 
+the crux of this project boils down to this step: modifying (or *fine tuning*) a pre-trained model. the starting model is called [resnet18](https://iq.opengenus.org/residual-neural-networks/), which was trained on more than a million images. it's very efficient at image classification and so is perfect to be fine-tuned. because resnet18 is already able to recognise objects, the fune-tuning step requires us to provide specific data on the thing we want to recognise. in this case, we'll need to provide images of hand gestures and the corresponding 'label', i.e. what hand gesture is being done in a photo. 
 
 
 # the search for data
@@ -40,7 +41,7 @@ next, i found a scaled down version of this dataset, with 512p images instead of
 
 
 # model
-> after loading the dataset, it was time to get to grips with the fast.ai library. there were many notebooks online from which to draw inspiration and lessons. in particular, there was a notebook which went through the different steps of getting the image files from the kaggle dataset, marking them with a classification label so it could then be loaded into the fast.ai library. i still have lots to learn here, but i accept glossing over this particular section in the name of learning more deep learning.
+after loading the dataset, it was time to get to grips with the fast.ai library. there were many notebooks online from which to draw inspiration and lessons. in particular, there was a notebook which went through the different steps of getting the image files from the kaggle dataset, marking them with a classification label so it could then be loaded into the fast.ai library. i still have lots to learn here, but i accept glossing over this particular section in the name of learning more deep learning.
 
 after loading the dataset, it was time to grapple with the fast.ai library. luckily there are many notebooks online from which to draw inspiration and lessons. in particular [this](https://www.kaggle.com/code/stpeteishii/hagrid-18-classify-fasiai/data) notebook went through the different steps of accessing the files from the kaggle dataset, marking them with a classification label so they can be loaded into the fast.ai library. 
 
